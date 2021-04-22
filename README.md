@@ -1,5 +1,5 @@
 <img src="https://github.com/JanelleGatmaitan/JanelleGatmaitan/blob/main/header.png?raw=true">
-I am a fullstack developer. Some of my technical skills include working with JavaScript, React.js, and Node.js.
+I am a software developer whose experience includes building applications using PostgreSQL, Node.js, React.js, and Express.
 
 <h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/janelle-gatmaitan/">LinkedIn</a>
