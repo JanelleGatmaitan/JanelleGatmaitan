@@ -18,9 +18,6 @@ I am a software developer looking to start my career in the tech industry. My cu
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
   <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
-<h3>My GitHub Stats:</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JanelleGatmaitan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 <h3>Connect with me!</h3>
 <a href="https://www.linkedin.com/in/janelle-gatmaitan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
